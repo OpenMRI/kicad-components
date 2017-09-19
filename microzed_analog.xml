@@ -1,6 +1,6 @@
 <component 
     refname="ZED" 
-    compname="MicroZed"
+    compname="MicroZedAnalog"
     package="CONN"
     description="Analog pins in MicroZed board."
     keywords="">

@@ -1,6 +1,6 @@
 <component 
     refname="ZED" 
-    compname="MicroZed" 
+    compname="MicroZedJTAG"
     package="SIP"
     description="JTAG pins in MicroZed board."
     keywords="">

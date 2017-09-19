@@ -1,6 +1,6 @@
 <component 
     refname="ZED" 
-    compname="MicroZed" 
+    compname="MicroZedBank13"
     package="SIP"
     description="Bank13 I/O pins in MicroZed board."
     keywords="">

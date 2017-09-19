@@ -1,0 +1,36 @@
+EESchema-DOCLIB  Version 2.0  Date: 6/1/2012-05:30AM IST
+#
+$CMP MicroZedAnalog
+D Analog pins in MicroZed board.
+K 
+$ENDCMP
+#
+$CMP MicroZedBank13
+D Bank13 I/O pins in MicroZed board.
+K 
+$ENDCMP
+#
+$CMP MicroZedBank34
+D Bank34 I/O pins in MicroZed board.
+K 
+$ENDCMP
+#
+$CMP MicroZedBank35
+D Bank35 I/O pins in MicroZed board.
+K 
+$ENDCMP
+#
+$CMP MicroZedConfig
+D Configuration pins in MicroZed board.
+K 
+$ENDCMP
+#
+$CMP MicroZedJTAG
+D JTAG pins in MicroZed board.
+K 
+$ENDCMP
+#
+$CMP MicroZedMIO
+D Power pins in MicroZed board.
+K 
+$ENDCMP
