@@ -1,0 +1,15 @@
+<component 
+    refname="ZED" 
+    compname="MicroZed" 
+    package="CONN"
+    description="Power pins in MicroZed board."
+    keywords="">
+PMOD_D0,B
+PMOD_D1,B
+PMOD_D2,B
+PMOD_D3,B
+PMOD_D4,B
+PMOD_D5,B
+PMOD_D6,B
+PMOD_D7,B
+</component>

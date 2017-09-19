@@ -1,0 +1,9 @@
+<component 
+    refname="ZED" 
+    compname="MicroZed" 
+    package="CONN"
+    description="Configuration pins in MicroZed board."
+    keywords="">
+FPGA_DONE,O
+INIT#,I
+</component>

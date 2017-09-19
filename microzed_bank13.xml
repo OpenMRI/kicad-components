@@ -1,0 +1,22 @@
+<component 
+    refname="ZED" 
+    compname="MicroZed" 
+    package="SIP"
+    description="Bank13 I/O pins in MicroZed board."
+    keywords="">
+BANK13_SE_0,B
+BANK13_LVDS_0_P,B
+BANK13_LVDS_0_N,B
+BANK13_LVDS_1_P,B
+BANK13_LVDS_1_N,B
+BANK13_LVDS_2_P,B
+BANK13_LVDS_2_N,B
+BANK13_LVDS_3_P,B
+BANK13_LVDS_3_N,B
+BANK13_LVDS_4_P,B
+BANK13_LVDS_4_N,B
+BANK13_LVDS_5_P,B
+BANK13_LVDS_5_N,B
+BANK13_LVDS_6_P,B
+BANK13_LVDS_6_N,B
+</component>

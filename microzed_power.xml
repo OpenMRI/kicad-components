@@ -1,0 +1,16 @@
+<component 
+    refname="ZED" 
+    compname="MicroZed" 
+    package="CONN"
+    description="Power pins in MicroZed board."
+    keywords="">
+PWR_ENABLE,I
+PG_MODULE,I
+VIN,W
+VCCIO_EN,I
+VCCO_13,W
+VCCO_34,W
+VCCO_35,W
+FPGA_VBATT,W
+GND,P
+</component>

@@ -1,0 +1,12 @@
+<component 
+    refname="ZED" 
+    compname="MicroZed" 
+    package="SIP"
+    description="JTAG pins in MicroZed board."
+    keywords="">
+JTAG_TCK,B
+JTAG_TMS,B
+JTAG_TDO,B
+JTAG_TDI,B
+CARRIER_SRST#,I
+</component>
