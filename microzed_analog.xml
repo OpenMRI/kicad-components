@@ -4,8 +4,8 @@
     package="CONN"
     description="Analog pins in MicroZed board."
     keywords="">
-XADC_VP_0_P,I
-XADC_VP_0_N,I
-XADC_DXP_0_P,I
-XADC_DXN_0_N,I
+VP_0_P,I
+VP_0_N,I
+DXP_0_P,I
+DXN_0_N,I
 </component>
