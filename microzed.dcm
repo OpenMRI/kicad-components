@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0  Date: 6/1/2012-05:30AM IST
+#
+$CMP MicroZedJX1
+D JX1 pins on MicroZed board.
+K 
+$ENDCMP
+#
+$CMP MicroZedJX2
+D JX2 pins on MicroZed board.
+K 
+$ENDCMP
+#
+# End Doc Library
