@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP adafruit_ft232h
+D Adafruit breakout board for FT232H
+K breakout adafruit FT232H
+F https://www.adafruit.com/product/2264
+$ENDCMP
+#
+#End Doc Library
